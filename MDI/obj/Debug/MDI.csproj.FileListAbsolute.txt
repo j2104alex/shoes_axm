@@ -1,0 +1,60 @@
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\MDI.exe.config
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.csprojAssemblyReference.cache
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.ClienteVentana.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.home.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.cache
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.csproj.CoreCompileInputs.cache
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.exe
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.ConsultarClienteVentana.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.FacturaVentana.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.EmpleadoVentana.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\Lib_Empleado.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibConexionBD.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibParametro.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\Lib_Empleado.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibConexionBD.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibParametro.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.csproj.CopyComplete
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibLlenarGrid.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibLlenarGrid.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\MDI.exe.config
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\Lib_Empleado.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\LibConexionBD.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\LibLlenarGrid.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\LibParametro.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.FacturaVentana.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.ClienteVentana.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.ConsultarClienteVentana.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.EmpleadoVentana.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.proveedorIngresar.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.home.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.csproj.CopyComplete
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.exe
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\Lib_Proveedor.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\Lib_Proveedor.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.proveedorConsultaEliminar.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\Lib_Proveedor.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\Lib_Proveedor.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.proveedorConsultaEliminar.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.proveedorIngresar.resources
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\obj\Debug\MDI.EmpleadoConsultaEliminar.resources
+<<<<<<< HEAD
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\obj\Debug\MDI.EmpleadoConsultaEliminar.resources
+=======
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibLlenarCombos.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\MDI\bin\Debug\LibLlenarCombos.pdb
+>>>>>>> 648140ed7600bc2810068830f984d8c4cb6f0e8c
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\LibLlenarCombos.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\MDI\bin\Debug\Lib_Empleado.pdb

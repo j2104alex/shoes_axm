@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.csproj.CoreCompileInputs.cache

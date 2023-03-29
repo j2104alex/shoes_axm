@@ -1,0 +1,29 @@
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\Lib_Empleado.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\Lib_Empleado.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibConexionBD.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibParametro.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibConexionBD.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibParametro.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.csproj.CopyComplete
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibLlenarGrid.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibLlenarGrid.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibLlenarCombos.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibLlenarCombos.pdb
+<<<<<<< HEAD
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.csprojAssemblyReference.cache
+=======
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\Lib_Empleado.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\Lib_Empleado.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibConexionBD.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibLlenarCombos.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibLlenarGrid.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\bin\Debug\LibParametro.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.csproj.CopyComplete
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Empleado\Lib_Empleado\obj\Debug\Lib_Empleado.pdb
+>>>>>>> 4e6c5b32005a466f719a40a6f756a1b0af31903e

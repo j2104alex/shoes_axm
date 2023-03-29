@@ -1,0 +1,24 @@
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\Lib_Proveedor.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\Lib_Proveedor.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibConexionBD.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibLlenarGrid.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibParametro.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.csproj.CopyComplete
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.dll
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\Lib_Proveedor.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\Lib_Proveedor.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibConexionBD.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibLlenarGrid.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibParametro.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibConexionBD.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibLlenarGrid.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibParametro.pdb
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.csprojAssemblyReference.cache
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.csproj.CoreCompileInputs.cache
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.csproj.CopyComplete
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.dll
+C:\Users\CristianH\Documents\ADSI\Adalnberto\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\obj\Debug\Lib_Proveedor.pdb
+C:\Users\HP\Desktop\Programación\SENA\3er trimestre\Adalberto Carcamo\Shoes_AXM\MDI\Librerias\Lib_Proveedor\Lib_Proveedor\bin\Debug\LibLlenarCombos.dll

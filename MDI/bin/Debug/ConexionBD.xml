@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conexion>
+  <Servidor>LAPTOP-28LTPD78\SQLEXPRESS</Servidor>
+  <BaseDatos>sales_system_db</BaseDatos>
+  <Usuario>LAPTOP-LTPD78\HP</Usuario>
+  <Password></Password>
+</Conexion>
